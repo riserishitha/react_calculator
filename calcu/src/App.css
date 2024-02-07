@@ -1,0 +1,17 @@
+*{
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+}
+.allDiv{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+}
+.datashown{
+  background-color: burlywood;
+  border: 1px solid grey;
+  border-radius: 10px;
+  color: white;
+  font-size: large;
+  font-weight: 700;
+}
